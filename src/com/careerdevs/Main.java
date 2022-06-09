@@ -75,7 +75,7 @@ public class Main {
    //     frame.revalidate ();
 
 
-    MyFrame myFrame = new MyFrame ();
+   // MyFrame myFrame = new MyFrame ();
 
     }
 }
