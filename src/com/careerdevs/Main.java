@@ -8,7 +8,8 @@ public class Main {
 
     public static void main(String[] args) {
 //	 write your code here
-//
+//X Always set visiblity to true after componets have been added
+
         ImageIcon image = new ImageIcon ("src/com/careerdevs/back.jpg");
       //  Border border = BorderFactory.createLineBorder ( Color.LIGHT_GRAY,3 );
 
